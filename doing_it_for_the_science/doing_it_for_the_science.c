@@ -5,7 +5,6 @@
 
 void portal()
 	{
-	printf("Okay. The test is over now. You win. Go back to the recovery annex. For your cake.\n");
     	char *filepath = "/bin/cat";
     	char *argv[] = { filepath, "flag", NULL };
     	execv(filepath, argv);
